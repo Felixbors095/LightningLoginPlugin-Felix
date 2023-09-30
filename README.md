@@ -34,6 +34,7 @@ CREATE TABLE `lightninglogin`.`Untitled`  (
 
 
 在数据库里执行命令
+![lable]
 CREATE TABLE `lightninglogin`.`Untitled`  (
   `email` text NULL,
   `uid` text NULL,
