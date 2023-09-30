@@ -42,4 +42,4 @@ CREATE TABLE `lightninglogin`.`Untitled`  (
   `flag` int(1) NULL
 );
 
-<a href="http://www.w3school.com.cn">English</a>
+<a href="https://github.com/Felixbors095/LightningLoginPlugin-Felix/blob/main/E-README.md">English</a>
