@@ -42,4 +42,4 @@ CREATE TABLE `lightninglogin`.`Untitled`  (
   `flag` int(1) NULL
 );
 
-<a href="http://www.w3school.com.cn">Englist</a>
+<a href="http://www.w3school.com.cn">English</a>
