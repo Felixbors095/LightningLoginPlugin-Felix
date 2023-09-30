@@ -34,10 +34,10 @@ CREATE TABLE `lightninglogin`.`Untitled`  (
 
 
 在数据库里执行命令
-#CREATE TABLE `lightninglogin`.`Untitled`  (
-  #`email` text NULL,
-  #`uid` text NULL,
-  #`code` int(11) NULL,
-  #`password` text NULL,
-  #`flag` int(1) NULL
-#);
+CREATE TABLE `lightninglogin`.`Untitled`  (
+  `email` text NULL,
+  `uid` text NULL,
+  `code` int(11) NULL,
+  `password` text NULL,
+  `flag` int(1) NULL
+);
